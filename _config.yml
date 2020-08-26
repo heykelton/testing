@@ -1,1 +1,25 @@
 theme: jekyll-theme-cayman
+
+# Site wide configuration
+
+title: Portfolio of Kelton Gregory
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Kelton Gregory
+  avatar: 
+  bio: "This is a sample Jekyll portfolio website."
+  email: heykelton@gmail.com
+  # Do not include the @ symbol in your Twitter username
+  linkedin: keltongregory
+  github: heykelton
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: #id
